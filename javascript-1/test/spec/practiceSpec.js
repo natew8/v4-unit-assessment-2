@@ -213,7 +213,7 @@ describe('Unit Assessment 2 -- JavaScript 1', () => {
     it('fidoSpeak should exist', () => {
       expect(fidoSpeak).toBeDefined()
     })
-    it('fidoSpeak shoulc contain the correct value', () => {
+    it('fidoSpeak should contain the correct value', () => {
       expect(fidoSpeak).toBe('Fido says bark!')
     })
     it('should use call method', async () => {
