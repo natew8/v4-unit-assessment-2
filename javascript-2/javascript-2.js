@@ -35,9 +35,11 @@ let foods = [
   and then adding the results together. 
 */
 
-function calories(){
-  
-}
+foods.forEach(function(){
+  for(let key in obj){
+    return 
+  }
+})
 
 //////////////////////////////////PROBLEMS 2-4//////////////////////////////////
 /*
@@ -114,7 +116,7 @@ const blueProducts = products.filter(function(element){
   Save the result to a variable called orderTotal.
 */
 
-//CODE HERE
+
 
 //////////////////////////////////PROBLEMS 5-8//////////////////////////////////
 /*
